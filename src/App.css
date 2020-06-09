@@ -1,5 +1,21 @@
+/* @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext'); */
+
+body {
+  font-weight: 'Source Sans Pro', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 .App {
+  width: 100vw;
+  height: 100vh;
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightsalmon;
 }
 
 .App-logo {
@@ -32,6 +48,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

@@ -1,0 +1,7 @@
+.content-widget {
+    background-color: #38332f;
+    color: #fff;
+    /* line-height: 70px; */
+    max-height: 250px;
+    overflow: auto;
+}

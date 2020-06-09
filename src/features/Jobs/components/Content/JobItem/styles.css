@@ -1,0 +1,20 @@
+.jobItem-widget {
+    height: 70px;
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 30px;
+    border-bottom-style: solid;
+    border-width: 0.1px;
+    border-color: #55504d;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: initial;
+    cursor: pointer;
+}
+
+p {
+    margin: 0;
+    font-size: 12px;
+    font-weight: 100;
+}
