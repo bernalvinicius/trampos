@@ -23,8 +23,8 @@ To run this project in the development mode, you'll need to have a basic environ
 **Cloning this repository**
 
 ```
-$ https://github.com/bernalvinicius/landing-page.git
-$ cd landing-page
+$ https://github.com/bernalvinicius/trampos.git
+$ cd trampos
 ```
 
 **Installing Dependencies**
